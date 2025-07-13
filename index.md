@@ -1,7 +1,7 @@
 # Welcome to Intro to Python Programming 👋
 
 This is the official website for our Python course. Here you’ll find:
-- 🧾 [Course Syllabus](Advanced Python Course Outline.docx)
+- 🧾 [Course Syllabus](Advanced Python Course Outline.md)
 - 🎓 [Lectures](lectures/)
 - 📚 [Homework Assignments](homeworks/)
 
