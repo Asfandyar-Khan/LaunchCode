@@ -2,8 +2,8 @@
 
 This is the official website for our Python course. Here you’ll find:
 - 🧾 [Course Syllabus](Syllabus.docx)
-- 🎓 [Lectures](lectures/)
-- 📚 [Homework Assignments](homeworks/)
+- 🎓 [Lectures](Lectures/)
+- 📚 [Homework Assignments](Homeworks/)
 
 Feel free to explore the content and reach out if you have any questions!
 
