@@ -5,7 +5,8 @@ This is the official website for our Python course. Here you’ll find:
 - 🎓 [Lectures](LaunchCodeLectures/)
 - 📚 [Homework Assignments](LaunchCodeHomeworks/)
 - 📚 [Project Ideas](ProjectIdeas.docx)
-Feel free to explore the content and reach out if you have any questions!
+  
+Feel free to explore the content and reach out to me at asfandkhan440@gmail.com if you have any questions!
 
 ---
 
