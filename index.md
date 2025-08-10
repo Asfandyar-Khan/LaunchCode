@@ -4,7 +4,7 @@ This is the official website for our Python course. Here you’ll find:
 - 🧾 [Course Syllabus](Syllabus.docx)
 - 🎓 [Lectures](LaunchCodeLectures/)
 - 📚 [Homework Assignments](LaunchCodeHomeworks/)
-
+- 📚 [Project Ideas](Python Project Ideas.docx)
 Feel free to explore the content and reach out if you have any questions!
 
 ---
